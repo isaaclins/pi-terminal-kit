@@ -35,6 +35,6 @@
     "test": "node --import tsx --test test/*.test.ts"
   },
   "devDependencies": {
-    "@earendil-works/pi-coding-agent": "^0.80.3"
+    "@earendil-works/pi-coding-agent": "^0.83.0"
   }
 }
